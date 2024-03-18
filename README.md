@@ -1,4 +1,4 @@
-# Decision tree clsasifier
+# Decision tree classifier
 
 A decision tree classifier is used to classify documents into r/books and r/atheism.
 
