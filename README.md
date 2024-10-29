@@ -14,3 +14,8 @@ Two methods are available to use for calculating the information gain.
 
 - $IG = I(E) - \left[ \frac{N1}{N} \cdot I(E1) + \frac{N2}{N} \cdot I(E2) \right]$
 
+**Accuracy Charts**
+
+![Unweighted Accuracy Plot](https://github.com/helenxiia/decision-tree-classifier/blob/main/unweighted_accuracy_plot.png)
+
+![Weighted Accuracy Plot](https://github.com/helenxiia/decision-tree-classifier/blob/main/weighted_accuracy_plot.png)
